@@ -1,2 +1,2 @@
-# E-Comm-analytics-Project
+# E-Comm Analytics Project
 Product recommendation based on regular cart/basket purchases in a product line category.
